@@ -4,3 +4,5 @@ git clone https://github.com/ddelcampov-web/retail-sales-analysis.git
 cd retail-sales-analysis
 git checkout main
 git checkout -b development
+git add README.md
+git commit -m "Add README1.md"
