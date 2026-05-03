@@ -18,4 +18,4 @@ Este proyecto analiza y predice las ventas de una tienda de retail utilizando t�
 
 Ejecuta los notebooks de Jupyter en la carpeta `notebooks` para realizar el análisis de los datos.
 # 2.2. Primeras filas (vista rápida)
-df.head(10)
+in[] df.head(10)
