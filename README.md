@@ -17,3 +17,5 @@ if __name__ == "__main__":
     ruta_archivo = '../data/retail_sales.csv'
     datos = cargar_datos(ruta_archivo)
     print(datos)
+# 2.2. Primeras filas (vista rápida)
+df.head(10)
