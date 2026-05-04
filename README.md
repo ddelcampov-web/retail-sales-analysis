@@ -18,4 +18,4 @@ if __name__ == "__main__":
     datos = cargar_datos(ruta_archivo)
     print(datos)
 # 2.2. Primeras filas (vista rápida)
-df.head(10)
+$ git df.head(10)
