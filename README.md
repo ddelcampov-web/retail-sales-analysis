@@ -8,14 +8,14 @@ git add README.md
 git commit -m "Add README1.md"
 import numpy as np
 
-def cargar_datos(ruta_archivo):
+$ git def cargar_datos(ruta_archivo):
     # Carga los datos del archivo CSV utilizando NumPy
-    datos = np.genfromtxt(ruta_archivo, delimiter=',', skip_header=1)
-    return datos
+$ git    datos = np.genfromtxt(ruta_archivo, delimiter=',', skip_header=1)
+$ git    return datos
 
-if __name__ == "__main__":
-    ruta_archivo = '../data/retail_sales.csv'
-    datos = cargar_datos(ruta_archivo)
-    print(datos)
+$ git if __name__ == "__main__":
+$ git    ruta_archivo = '../data/retail_sales.csv'
+$ git    datos = cargar_datos(ruta_archivo)
+$ git    print(datos)
 # 2.2. Primeras filas (vista rápida)
 $ git df.head(10)
