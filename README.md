@@ -17,5 +17,5 @@ $ git if __name__ == "__main__":
 $ git    ruta_archivo = '../data/retail_sales.csv'
 $ git    datos = cargar_datos(ruta_archivo)
 $ git    print(datos)
-# 2.2. Primeras filas (vista rápida)
-$ git df.head(10)
+
+https://colab.research.google.com/drive/1WS8nus3F24T1WtZVrjYwtVOtpOmdE4-7?usp=sharing
